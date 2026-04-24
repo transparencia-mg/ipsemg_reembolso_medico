@@ -1,5 +1,5 @@
 {
-  "name": "ipsemg_reembolso_medico",
+  "name": "ipsemg_reembolsos_medico",
   "owner_org": "instituto-de-previdencia-dos-servidores-do-estado-de-minas-gerais-ipsemg",
   "profile": "data-package",
   "resources": [
@@ -90,8 +90,8 @@
         ]
       },
       "scheme": "file",
-      "title": "Reembolso Médico"
+      "title": "Reembolsos Médico"
     }
   ],
-  "title": "IPSEMG Reembolso Médico"
+  "title": "IPSEMG Reembolsos Médico"
 }
