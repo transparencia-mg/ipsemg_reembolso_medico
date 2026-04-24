@@ -2,7 +2,6 @@ Conjunto de dados que apresenta o número de reembolsos pagos mensalmente, por p
 
 O benefício consiste no reembolso de despesas médico-hospitalares efetuadas em caráter particular, mediante solicitação formal do interessado. A concessão está condicionada ao cumprimento dos requisitos estabelecidos no Decreto nº 48.981, de 17 de janeiro de 2025.
 
-
 ## Como participar
 
 Fique a vontade para utilizar os demais canais oficiais de atendimento do Poder Executivo Estadual:
